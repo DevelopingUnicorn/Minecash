@@ -1,0 +1,3 @@
+main: at.schni.minecash.main.Plugin
+name: MineCash
+version: 1.0
